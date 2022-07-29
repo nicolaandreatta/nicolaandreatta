@@ -17,4 +17,4 @@ You will find some of my projects here
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your_GitHub_username>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<nicolaandreatta>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
