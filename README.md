@@ -3,9 +3,9 @@
 ---
 
 ### About me
-I am currently a student of Data Science at Nova IMS in Lisbon.
-I developed several projects in the area of Optimization, Queueing theory, Machine learning, Data mining, Deep learning, Text Mining et al.
-You will find some of my projects here
+I am currently working at Sas institute as technical consultants. I've been working for several projects in the bank, insurance and pharmaceutical sector. I graduated in Data Science at Nova IMS in Lisbon.
+In this page I share with you some of the projects I developed during my master's degree in the area of Optimization, Queueing theory, Machine learning, Data mining, Deep learning, Text Mining et al.
+Soon I will post some excerpt from the projects I developed in Sas
 
 ---
 
